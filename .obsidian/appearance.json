@@ -1,1 +1,6 @@
-{}
+{
+  "showViewHeader": false,
+  "showRibbon": false,
+  "nativeMenus": true,
+  "translucency": true
+}
