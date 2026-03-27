@@ -29,6 +29,12 @@ AI as a field was founded at the Dartmouth Conference in 1956. It has gone throu
 - **General AI (AGI)** — Hypothetical systems with human-level reasoning across domains
 - **Superintelligent AI (ASI)** — Hypothetical systems surpassing human intelligence
 
+## AI-Powered Development
+
+- [[AI Coding Harnesses]] — Tools that wrap LLMs in an agentic loop for software engineering
+- [[Agentic Coding Paradigm]] — The shift from autocomplete to autonomous coding agents
+- [[Model Context Protocol]] — The open standard for connecting AI to external tools
+
 ## Related
 
 - [[AI Ethics and Safety]]
