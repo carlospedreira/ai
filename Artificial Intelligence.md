@@ -13,11 +13,24 @@ Artificial Intelligence (AI) is the field of computer science focused on creatin
 ## Key Concepts
 
 - [[Neural Networks]] — The computational architecture inspired by the brain
-- [[Training and Inference]] — The two phases of an AI system's lifecycle
-- [[Supervised vs Unsupervised Learning]] — The main learning paradigms
-- [[Generative AI]] — Models that create new content
+- [[Attention Mechanism]] — The innovation behind Transformers
 - [[Transformers]] — The architecture behind modern language models
 - [[Large Language Models]] — Foundation models trained on vast text corpora
+- [[Tokens and Tokenization]] — How text is represented for models
+- [[Training and Inference]] — The two phases of an AI system's lifecycle
+- [[Supervised vs Unsupervised Learning]] — The main learning paradigms
+- [[Fine-Tuning and Alignment]] — Making models helpful, harmless, and honest
+- [[Generative AI]] — Models that create new content
+- [[Multimodal AI]] — Models that process text, images, audio, and video
+- [[Scaling Laws]] — Why bigger models perform better
+- [[Embeddings and Vector Search]] — Dense vector representations of meaning
+
+## Infrastructure and Optimization
+
+- [[AI Hardware and Compute]] — GPUs, TPUs, and the infrastructure behind AI
+- [[Inference Optimization]] — Making models faster and cheaper to run
+- [[Open Source AI Models]] — LLaMA, Mistral, Qwen, and the open ecosystem
+- [[AI Benchmarks]] — Measuring and comparing model capabilities
 
 ## History
 
@@ -35,7 +48,19 @@ AI as a field was founded at the Dartmouth Conference in 1956. It has gone throu
 - [[Agentic Coding Paradigm]] — The shift from autocomplete to autonomous coding agents
 - [[Model Context Protocol]] — The open standard for connecting AI to external tools
 
+## Practical Topics
+
+- [[AI Code Review]] — Using AI to review pull requests and find bugs
+- [[AI Coding Workflows]] — Practical patterns for working with coding agents
+- [[Vibe Coding]] — The natural-language-first coding paradigm
+- [[Retrieval-Augmented Generation]] — Grounding models in real data
+- [[Hallucination and Grounding]] — When models make things up, and how to prevent it
+
 ## Related
 
 - [[AI Ethics and Safety]]
 - [[Prompt Engineering]]
+- [[Tool Use in AI]]
+- [[Structured Output]]
+- [[AI Agents and Sub-Agents]]
+- [[AI Agent Frameworks]]
